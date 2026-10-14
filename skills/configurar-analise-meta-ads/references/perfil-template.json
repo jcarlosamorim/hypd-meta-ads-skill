@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "account_id": null,
+  "account_name": null,
+  "currency": null,
+  "account_timezone": null,
+  "schedule_timezone": null,
+  "schedule_timezone_confirmed": false,
+  "language": "pt-BR",
+  "delivery": "ChatGPT",
+  "connection_verified_at": null,
+  "profile_confirmed": false,
+  "max_new_customer_cost": null,
+  "max_contact_cost": null,
+  "contact_type": null,
+  "contact_event": null,
+  "attribution": null,
+  "new_customer_source": "unknown",
+  "new_customer_definition": "unknown",
+  "conversion_lag": "unknown"
+}

@@ -1,0 +1,14 @@
+interface:
+  display_name: Configurar análise Meta Ads
+  short_description: Conecte HYPD AI e acompanhe suas metas de anúncios
+  default_prompt: Use $configurar-analise-meta-ads para conectar HYPD AI e configurar
+    meus relatórios de Meta Ads.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
